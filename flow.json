@@ -229,7 +229,7 @@
         "fieldType": "msg",
         "format": "css",
         "syntax": "mustache",
-        "template": ".gridWrap{\n    right: 0px !important;\n    top: 0px !important;\n    height: 100vh !important;\n    width: 100vw;\n    padding: 4px 0 !important;\n}\n\n.selectedTab{\nbox-shadow: rgb(235, 239, 242) -1px 0px 0px inset, rgb(235, 239, 242) 0px 0px 0px inset, rgb(141, 194, 111) 0px 4px 0px inset !important;\n\n}\n\n.btn button>span {\n    color: white !important;\n}\n\nbutton{\n    color: white !important;\n}\n\n",
+        "template": ".sc-gtbeZJ, .jfUtuP {\n    background-color: #fff !important;\n}\n\n.gridWrap{\n    left: 10px !important;\n    right: 0px !important;\n    top: 0px !important;\n    min-height: 100vh !important;\n    height: fit-content !important;\n    width: 100% !important;\n    padding: 0 !important;\n}\n\n.selectedTab{\nbox-shadow: rgb(235, 239, 242) -1px 0px 0px inset, rgb(235, 239, 242) 0px 0px 0px inset, rgb(141, 194, 111) 0px 4px 0px inset !important;\n}\n\n.btn button>span {\n    color: white !important;\n}\n\nbutton{\n    color: white !important;\n}\n",
         "output": "str",
         "x": 300,
         "y": 80,
